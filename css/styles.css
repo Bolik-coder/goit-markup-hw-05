@@ -505,8 +505,8 @@ padding-top: 132px;
     margin-right: 24px;
 }
 
-.link-port-item:hover .link-port-text,
-.link-port-item:focus .link-port-text {
+.link-port:hover .link-port-text,
+.link-port:focus .link-port-text {
     transform: translateY(0);
 
 }
